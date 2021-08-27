@@ -23,6 +23,11 @@ body{
 
 .small-icon
 {
-    height:25px;
-    width:25px;
+    height:25%;
+    width:25%;
+}
+
+.small-banner{
+    height:25%;
+    width:30%;
 }
