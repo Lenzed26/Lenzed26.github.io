@@ -25,6 +25,8 @@ body{
 {
     height:25%;
     width:25%;
+    min-width:25px;
+    min-height:25px;
 }
 
 .small-banner{
